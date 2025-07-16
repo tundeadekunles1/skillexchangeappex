@@ -1,0 +1,6 @@
+.messages-container {
+  background-color: aquamarine;
+  border-radius: 5px;
+  display: flex;
+  color: brown;
+}
