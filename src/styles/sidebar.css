@@ -18,15 +18,16 @@
 
 .sidebar nav a {
   display: block;
-  color: white;
+  color: #000;
   text-decoration: none;
   margin-bottom: 15px;
-  padding: 10px;
+  padding: 5px;
   border-radius: 4px;
+  background-color: #fff;
 }
 
 .sidebar nav a:hover,
-.sidebar nav a.active {
-  background-color: #00d1b2;
+.sidebar nav a:active {
+  background-color: #ddeffc;
   color: #1e1e2f;
 }
